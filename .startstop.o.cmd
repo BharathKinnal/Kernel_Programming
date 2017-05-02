@@ -1,0 +1,1 @@
+cmd_/home/student_15it117/Documents/Kernel/startstop.o := ld -m elf_x86_64   -r -o /home/student_15it117/Documents/Kernel/startstop.o /home/student_15it117/Documents/Kernel/start.o /home/student_15it117/Documents/Kernel/stop.o 

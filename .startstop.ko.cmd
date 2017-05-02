@@ -1,0 +1,1 @@
+cmd_/home/student_15it117/Documents/Kernel/startstop.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student_15it117/Documents/Kernel/startstop.ko /home/student_15it117/Documents/Kernel/startstop.o /home/student_15it117/Documents/Kernel/startstop.mod.o

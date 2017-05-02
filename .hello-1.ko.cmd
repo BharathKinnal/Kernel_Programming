@@ -1,0 +1,1 @@
+cmd_/home/student_15it117/Documents/Kernel/hello-1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student_15it117/Documents/Kernel/hello-1.ko /home/student_15it117/Documents/Kernel/hello-1.o /home/student_15it117/Documents/Kernel/hello-1.mod.o
